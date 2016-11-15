@@ -6,6 +6,18 @@ h1 {
 	text-align: center;
 }
 
+#Chicken{
+	background:#D05590
+}
+
+#Beef{
+	background: #E02222
+}
+
+#Sushi {
+	background: yellow;
+}
+
 section {
 	border: 1px solid black ;/*I don't konw what's the meaning of solid*/
 	background-color:grey;
